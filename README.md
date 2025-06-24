@@ -61,4 +61,4 @@ Telegram频道传送门：整理热门 Telegram 频道资源，涵盖资讯、�
 社会影响：
 
 系统化记录娱乐与网红圈热点事件全流程，从初始爆料到舆论发酵，信息真实，脉络清晰，便于用户复盘事件、洞察趋势，是舆情分析与内容策划的重要参考。
-[Canonical link](）
+[Canonical link](https://github.com/afeng20250624/afeng8）
